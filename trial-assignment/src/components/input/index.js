@@ -17,12 +17,12 @@ class InputContainer extends React.Component {
     super(props)
     
     this.state = {
-      name: 'Ovidiu Rugina',
-      gender: {'value':'male', 'label':'male'},
-      age: {'value':'38', 'label':'38'},
-      email: 'rovidiu@gmail.com',
-      country: {'value':'UK', 'label':'UK'},
-      city: {'value':'London', 'label':'London'},
+      name: '',
+      gender: {},
+      age: {},
+      email: '',
+      country: {},
+      city: {},
       date: '',
       csv_file: '',
       csv_input: '',
