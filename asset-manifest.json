@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/trial-assignment-upwork/trial-assignment/static/css/main.37944831.chunk.css",
+    "main.js": "/trial-assignment-upwork/trial-assignment/static/js/main.0de71794.chunk.js",
+    "main.js.map": "/trial-assignment-upwork/trial-assignment/static/js/main.0de71794.chunk.js.map",
+    "runtime-main.js": "/trial-assignment-upwork/trial-assignment/static/js/runtime-main.c02450f8.js",
+    "runtime-main.js.map": "/trial-assignment-upwork/trial-assignment/static/js/runtime-main.c02450f8.js.map",
+    "static/js/2.0d969d4e.chunk.js": "/trial-assignment-upwork/trial-assignment/static/js/2.0d969d4e.chunk.js",
+    "static/js/2.0d969d4e.chunk.js.map": "/trial-assignment-upwork/trial-assignment/static/js/2.0d969d4e.chunk.js.map",
+    "index.html": "/trial-assignment-upwork/trial-assignment/index.html",
+    "precache-manifest.4f1f0ffb24aa524fd6c67e73262a2975.js": "/trial-assignment-upwork/trial-assignment/precache-manifest.4f1f0ffb24aa524fd6c67e73262a2975.js",
+    "service-worker.js": "/trial-assignment-upwork/trial-assignment/service-worker.js",
+    "static/css/main.37944831.chunk.css.map": "/trial-assignment-upwork/trial-assignment/static/css/main.37944831.chunk.css.map",
+    "static/js/2.0d969d4e.chunk.js.LICENSE.txt": "/trial-assignment-upwork/trial-assignment/static/js/2.0d969d4e.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/trial-assignment-upwork/trial-assignment/static/media/close.697eab48.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c02450f8.js",
+    "static/js/2.0d969d4e.chunk.js",
+    "static/css/main.37944831.chunk.css",
+    "static/js/main.0de71794.chunk.js"
+  ]
+}
